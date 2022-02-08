@@ -12,3 +12,5 @@ __pycache__/
 id_rsa
 .DS_Store
 .git
+
+cyclo-env/
